@@ -15,4 +15,4 @@
 
 - Dataframe must contain open, high, low and close prices
 - Open, high, low and close prices must be in numeric type.
-![dataframe](dataframe.png)
+[dataframe](dataframe.png)
